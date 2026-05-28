@@ -1,2 +1,2 @@
 # mysite
-my first site with djago
+my first website with djago
